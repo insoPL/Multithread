@@ -77,3 +77,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.cbp
+Multithread.layout
+Multithread.depend
+bin/Release/pi.txt
