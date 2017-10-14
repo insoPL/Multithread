@@ -46,7 +46,7 @@ int main(int argc, char **argv)
 
     for (int foo = 0; foo < amount_of_threads; foo++)
     {
-        thread_list.push(async(thread_function, foo));
+        thread_list.push( async(launch::async,thread_function, foo));
     }
 
     int inside_circle = 0;
