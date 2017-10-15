@@ -10,7 +10,7 @@ Secound is number of calculation that will be made on each thread
 # Calculation distribution and program speed
 I written simple Python script to mesure how much time program needs to perform calculations with diffrent amoumnt of threads and number of calculations.
 
-'''Python
+```python
 # -*- coding: utf-8 -*-
 import subprocess
 import time
@@ -37,6 +37,6 @@ for foo in Matrix:
     for bar in foo:
         file.write("{} ".format(bar))
     file.write("\n")
-'''
+```
 
 https://plot.ly/~InsoPL/8/
