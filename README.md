@@ -8,5 +8,8 @@ First is total number of threads that will make calculations.
 Secound is number of calculation that will be made on each thread
 
 {::nomarkdown}
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~InsoPL/8.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~InsoPL/8/?share_key=Yg7tWixK4CcW0cAd1aaPJD" target="_blank" title="Plot 8" style="display: block; text-align: center;"><img src="https://plot.ly/~InsoPL/8.png?share_key=Yg7tWixK4CcW0cAd1aaPJD" alt="Plot 8" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="InsoPL:8" sharekey-plotly="Yg7tWixK4CcW0cAd1aaPJD" src="https://plot.ly/embed.js" async></script>
+</div>
 {:/}
