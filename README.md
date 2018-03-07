@@ -8,5 +8,5 @@ First is total number of threads that will make calculations.
 Secound is number of calculation that will be made on each thread
 
 # Calculation distribution and program speed
-Then I written simple Python script (Multithread_test.py) to mesure how much time program needs to perform calculations with diffrent amoumnt of threads and number of calculations. As expected distributing calculation to more threads greatly enhanced performance of program (tests were performed on 4 core porcessor). I exported data and build 3d graph:
+TSimple Python script (Multithread_test.py) mesures time which program needs to perform calculations with diffrent amoumnt of threads and number of calculations. As expected distributing calculation to more threads greatly enhanced performance of program (tests were performed on 4 core porcessor). I exported data and build 3d graph:
 https://plot.ly/~InsoPL/8.embed
